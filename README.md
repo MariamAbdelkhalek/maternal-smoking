@@ -51,10 +51,11 @@ You can start by copying [this notebook](smoking.ipynb) into Google Colaboratory
 - In the shared notebook, mom's smoking pattern (`smoke`) is converted to a factor. You might need to convert other categorical variables as you see fit.
 - In **Q11**, **Q12**, and **Q13**, not all columns need to be included in the analysis, e.g., `id`.
 
+Good luck 🌟
+
 ## Resources
+Here are some cheat sheets that might be helpful:
 - [Data Transformation](resources/data-transformation.pdf)
 - [Data Visualization](resources/data-visualization.pdf)
 - [Visual Vocabulary](resources/visual-vocabulary.pdf)
 - [R Tutorial](http://www.r-tutor.com/r-introduction)
-
-Good luck ✨
