@@ -23,7 +23,7 @@ The columns included in the subsets described in the table below
 | `dad.edu` | dad eduction |
 | `dad.height` | dad height |
 | `dad.weight` | dad weight |
-| `marital` | 1=married, 2-4=seperated, divorced, widowed, 5=never married |
+| `marital` | 1=married, 2=seperated, 3=divorced, 4=widowed, 5=never married |
 | `income` | total income in 2500 increements 0=under 2500, 1=2500-4999, ...., 9=15000+, 98=unknown, 99=not asked |
 | `smoke` | mom smoking
 | `quit.time` | how long ago quit 0=never, 1=still, 2=during preggancy, 3=1 year, 4=2 years, 5=3 years, 6=4 years, 7=5-9 years, 8=10+ years, 9=quit and don't know when, 98=unknown |
