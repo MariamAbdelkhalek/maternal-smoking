@@ -29,7 +29,7 @@ The columns included in the subset described in the table below:
 | `quit.time` | how long ago quit 0=never, 1=still, 2=during preggancy, 3=1 year, 4=2 years, 5=3 years, 6=4 years, 7=5-9 years, 8=10+ years, 9=quit and don't know when, 98=unknown |
 | `cigs` | number of cigs smoked a day for past and current smokers 0=never, 1=1-4, 2=5-9, 3=10-14, 4=15-19, 5=20-29, 6=30-39, 7=40-60, 8=60+, 9=smoke but don't know, 98=unknown |
 
-Given this dataset, answer the following questions, visually, and numerically, if possible
+Given the [dataset](smoking.tsv), address the following questions, visually, and numerically, if possible:
 
 - **Q1.** Does the mom's smoking pattern affect the newborn birth weight?
 - **Q2.** Does the mom’s race affect the newborn birth weight?
