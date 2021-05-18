@@ -31,6 +31,8 @@ The columns included in the subset described in the table below:
 
 Given the [dataset](smoking.tsv), address the following questions visually and numerically, if possible, and state your conclusion:
 
+<img src="images/baby.jpeg" width="300px" align="right" style="border-radius: 30px;">
+
 - **Q1.** Does the mom's smoking pattern affect the newborn birth weight?
 - **Q2.** Does the mom’s race affect the newborn birth weight?
 - **Q3.** Is there a correlation between the mom’s weight and the baby’s weight?
