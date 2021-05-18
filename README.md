@@ -54,6 +54,7 @@ You can start by copying [this notebook](smoking.ipynb) into Google Colaboratory
 ## Resources
 - [Data Transformation](resources/data-transformation.pdf)
 - [Data Visualization](resources/data-visualization.pdf)
+- [Visual Vocabulary](resources/visual-vocabulary.pdf)
 - [R Tutorial](http://www.r-tutor.com/r-introduction)
 
 Good luck ✨
