@@ -31,16 +31,24 @@ The columns included in the subsets described in the table below:
 
 Given this dataset, answer the following questions, visually, and numerically, if possible
 
-**Q1** Does the mom's smoking pattern affect the newborn birth weight?
-**Q2** Does the mom’s race affect the newborn birth weight?
-**Q3** Is there a correlation between the mom’s weight and the baby’s weight?
-**Q4** Is there a correlation between the dad’s weight and the baby’s weight?
-**Q5** From Q3 and Q4, which is a stronger correlation?
-**Q6** Is there a correlation between the mom’s weight and the dad’s weight?
-**Q7** On average, does the mom’s weight change across the races?
-**Q8** Does mom’s smoking pattern change with the mom’s education?
-**Q9** Does mom’s smoking pattern change with the family income?
-**Q10** Is there a relationship between the mom’s race and the dad’s race?
-**Q11** Among the different variables included in the dataset, which variable is the newborn birth weight most statistically significantly associated?
-**Q12** Among the different variables included in the dataset, which variable has the most considerable effect on the newborn birth weight?
-**Q13** Do the different variables provide grouping/clustering of the newborns according to the mom’s smoking pattern? If so, which variables are the most important?
+- **Q1.** Does the mom's smoking pattern affect the newborn birth weight?
+- **Q2.** Does the mom’s race affect the newborn birth weight?
+- **Q3.** Is there a correlation between the mom’s weight and the baby’s weight?
+- **Q4.** Is there a correlation between the dad’s weight and the baby’s weight?
+- **Q5.** From Q3 and Q4, which is a stronger correlation?
+- **Q6.** Is there a correlation between the mom’s weight and the dad’s weight?
+- **Q7.** On average, does the mom’s weight change across the races?
+- **Q8.** Does mom’s smoking pattern change with the mom’s education?
+- **Q9.** Does mom’s smoking pattern change with the family income?
+- **Q10.** Is there a relationship between the mom’s race and the dad’s race?
+- **Q11.** Among the different variables included in the dataset, which variable is the newborn birth weight most statistically significantly associated?
+- **Q12.** Among the different variables included in the dataset, which variable has the most considerable effect on the newborn birth weight?
+- **Q13.** Do the different variables provide grouping/clustering of the newborns according to the mom’s smoking pattern? If so, which variables are the most important?
+
+You can by launch copying this notebook into Google Colaboratory.
+
+**Hint**
+- In the shared notebook, mom's smoking pattern (`smoke`) is converted to a factor. You might need to convert other categorical variables as you see fit.
+- In **Q11**, **Q12**, and **Q13**, not all columns need to be included in the analysis, e.g., `id`.
+
+Good luck ✨
