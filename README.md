@@ -4,7 +4,7 @@
 
 Maternal smoking has been shown to have harmful effects on the newborn, including reduced birth weight. This [dataset](smoking.tsv) is a subset of a much larger study by the Child Health and Development Study (CHDS) that was conducted over several years.
 
-The columns included in the subsets described in the table below:
+The columns included in the subset described in the table below:
 
 | Column | Description |
 | -- | -- |
