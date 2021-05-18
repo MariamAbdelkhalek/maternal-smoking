@@ -45,7 +45,7 @@ Given this dataset, answer the following questions, visually, and numerically, i
 - **Q12.** Among the different variables included in the dataset, which variable has the most considerable effect on the newborn birth weight?
 - **Q13.** Do the different variables provide grouping/clustering of the newborns according to the mom’s smoking pattern? If so, which variables are the most important?
 
-You can start by copying this notebook into Google Colaboratory. Make sure to name your notebook with your name (first and last).
+You can start by copying [this notebook](smoking.ipynb) into Google Colaboratory. Make sure to name your notebook with your name (first and last).
 
 **Hint**
 - In the shared notebook, mom's smoking pattern (`smoke`) is converted to a factor. You might need to convert other categorical variables as you see fit.
