@@ -54,7 +54,7 @@ You can start by copying [this notebook](smoking.ipynb) into Google Colaboratory
 Good luck 🌟
 
 ## Resources
-Here are some cheat sheets that might be handy:
+Here are some cheat sheets that might be helpful:
 - [Data Transformation](resources/data-transformation.pdf)
 - [Data Visualization](resources/data-visualization.pdf)
 - [Visual Vocabulary](resources/visual-vocabulary.pdf)
